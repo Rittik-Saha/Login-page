@@ -89,7 +89,7 @@
  
  .login p {
    text-align: center;
-   padding  20px;
+   padding: 20px;
  }
  
  #chk:checked ~ .login label {
